@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Clemond (Nicholas in the real world)! I’m an iOS/Android Development student at Stockholm Technical Institute.
+- 👀  I’m interested in web and native app development, games, reading, and tennis.
+- 🌱 I’m currently learning API and backend development.
+- 📫 How to reach me -> nicholas.nieminen.jonsson@stud.sti.se
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I won Sweden's biggest chess tournament for 4th graders, Schack4an, when I was 10 years old.
