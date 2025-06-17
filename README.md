@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clemond (Nicholas in the real world)! I’m an iOS/Android Development student at Stockholm Technical Institute.
+- 👋 Hi, I’m @Clemond (Nicholas in the real world)! I’m an iOS/Android Developer from Stockholm.
 - 👀  I’m interested in web and native app development, games, reading, and tennis.
 - 🌱 I recently completed my internship as an app developer at Pixlo (Jan–Apr 2025).
 - 📫 How to reach me -> nicholas.nieminen.jonsson@stud.sti.se
